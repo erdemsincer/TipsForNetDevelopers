@@ -1,0 +1,3 @@
+﻿.AsNoTracking() genellikle sadece verileri okumak ve veri değiştirme işlemi yapmamak istediğinizde kullanılır.
+Çünkü EF Core, AsNoTracking ile çekilen verileri takip etmez ve bu veriler
+üzerinde yapılan değişiklikler otomatik olarak veritabanına yansımaz.

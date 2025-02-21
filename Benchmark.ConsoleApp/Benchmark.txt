@@ -1,0 +1,1 @@
+﻿Benchmark iki metodun performansını karşılaştırarak hangisi daha performans onu göstermeye yarar.
