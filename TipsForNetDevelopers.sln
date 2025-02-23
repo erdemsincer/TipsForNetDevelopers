@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IQueryablee", "IQueryablee\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EagerLazyLoading", "EagerLazyLoading\EagerLazyLoading.csproj", "{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization", "Authorization\Authorization.csproj", "{BF681AE0-7544-452D-8D07-19076F54A5C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF681AE0-7544-452D-8D07-19076F54A5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF681AE0-7544-452D-8D07-19076F54A5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF681AE0-7544-452D-8D07-19076F54A5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF681AE0-7544-452D-8D07-19076F54A5C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
