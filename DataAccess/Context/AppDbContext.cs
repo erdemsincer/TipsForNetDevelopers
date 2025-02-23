@@ -12,6 +12,8 @@ public sealed class AppDbContext : DbContext
 
      public DbSet<Product>  Products { get; set; }
      public DbSet<ErrorLog>  ErrorLogs { get; set; }
+     public DbSet<PerformanceLog>  PerformanceLogs { get; set; }
+     public DbSet<Category>  Categories { get; set; }
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

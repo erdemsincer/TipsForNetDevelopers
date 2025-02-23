@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASenkron", "ASenkron\ASenkr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancellationTokenWebApi", "CancellationTokenWebApi\CancellationTokenWebApi.csproj", "{D53BFE00-CD48-4942-AB70-1B36C853316F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLogg", "ErrorLogg\ErrorLogg.csproj", "{F34789CE-D4CE-4AC3-A9FF-8895EE5800AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErrorLogg", "ErrorLogg\ErrorLogg.csproj", "{F34789CE-D4CE-4AC3-A9FF-8895EE5800AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQueryablee", "IQueryablee\IQueryablee.csproj", "{56753132-5A43-4DDB-A069-03AAF678F4D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IQueryablee", "IQueryablee\IQueryablee.csproj", "{56753132-5A43-4DDB-A069-03AAF678F4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EagerLazyLoading", "EagerLazyLoading\EagerLazyLoading.csproj", "{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{56753132-5A43-4DDB-A069-03AAF678F4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56753132-5A43-4DDB-A069-03AAF678F4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56753132-5A43-4DDB-A069-03AAF678F4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBDB636-11DE-4471-AB51-9D73D2B4D6AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
